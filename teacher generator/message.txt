@@ -1,0 +1,8 @@
+Hello [name],
+This is a kindly reminder that you have
+[missing tasks] tasks left to submit
+before you can graduate.
+Your current grade is [current grade]
+and can increase to [potential grade]
+if you submit all assignments before the due date
+[date].
